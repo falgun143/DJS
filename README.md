@@ -169,4 +169,3 @@ artillery run src/load-test/load-test.yaml
 - Unolo Team for giving the assignment.
 - Prisma team for the ORM.
 - Express team for the web framework.
-- Google Translate API team for the translation service.
