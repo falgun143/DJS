@@ -1,7 +1,7 @@
 <div align="center">
   <div style="display: inline-block; text-align: left;">
     <img src="./images/Unolo.png" alt="Logo" width="40" height="40" style="vertical-align: middle;">
-    <span style="font-size: 2em; font-weight: bold; margin-left: 10px; vertical-align: middle;">Unolo Backend Assignment</span>
+    <span style="font-size: 2em; font-weight: bold; margin-left: 10px; vertical-align: middle;">Distributed Job Scheduler with Fault Tolerance</span>
   </div>
 
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
